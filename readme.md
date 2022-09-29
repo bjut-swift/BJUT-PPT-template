@@ -8,7 +8,7 @@
 ## 其他情况 ##
 幻灯片提供了五种版式——标题、目录、小节标题、正文、致谢。在幻灯片缩略图**右键点击**，选择**版式**选项卡，既可更换不同版式。
 
-##16:9模板预览##
+## 16:9模板预览 ##
 ![1](https://user-images.githubusercontent.com/22004812/192976469-54e5fcc4-09e5-40d8-bed3-2b8dd7fdc2cb.png)
 ![2](https://user-images.githubusercontent.com/22004812/192976477-aac613d8-81c1-44f3-9fd9-f0f16e722133.png)
 ![3](https://user-images.githubusercontent.com/22004812/192976481-3df9a989-57f3-4148-9b14-8553c21e0985.png)
@@ -19,7 +19,7 @@
 ![8](https://user-images.githubusercontent.com/22004812/192976497-1e78579b-01ed-443c-9615-67d019a64bfd.png)
 ![9](https://user-images.githubusercontent.com/22004812/192976501-f5ee05be-b767-4431-b115-24d316180426.png)
 
-##4:3模板预览##
+## 4:3模板预览 ##
 ![1](https://user-images.githubusercontent.com/22004812/192976666-d8d6e30e-5b61-46cb-90d1-a9d7b55a8df6.png)
 ![2](https://user-images.githubusercontent.com/22004812/192976678-85a5e097-96b4-4d68-b188-0ac3af55d136.png)
 ![3](https://user-images.githubusercontent.com/22004812/192976683-ba23918b-1140-465e-9c67-d1ed9e6faf48.png)
